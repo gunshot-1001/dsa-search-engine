@@ -1,0 +1,4808 @@
+[
+  {
+    "Domain": "Algorithms",
+    "Title": "Solve Me First",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Simple Array Sum",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Compare the Triplets",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/compare-the-triplets?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "A Very Big Sum",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/a-very-big-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Diagonal Difference",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/diagonal-difference?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Plus Minus",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/plus-minus?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Staircase",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/staircase?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mini-Max Sum",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/mini-max-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Birthday Cake Candles",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Time Conversion",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/time-conversion?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Grading Students",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/grading?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Apple and Orange",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/apple-and-orange?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Number Line Jumps",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/kangaroo?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Between Two Sets",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Breaking the Records",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/breaking-best-and-worst-records?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Subarray Division",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/the-birthday-bar?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Divisible Sum Pairs",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/divisible-sum-pairs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Migratory Birds",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/migratory-birds?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Day of the Programmer",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/day-of-the-programmer?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bill Division",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/bon-appetit?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sales by Match",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sock-merchant?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Drawing Book",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/drawing-book?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counting Valleys",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/counting-valleys?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Electronics Shop",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/electronics-shop?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cats and a Mouse",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cats-and-a-mouse?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Forming a Magic Square",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Picking Numbers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Climbing the Leaderboard",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/climbing-the-leaderboard?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Hurdle Race",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/the-hurdle-race?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Designer PDF Viewer",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/designer-pdf-viewer?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Utopian Tree",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/utopian-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Angry Professor",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/angry-professor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful Days at the Movies",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-days-at-the-movies?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Viral Advertising",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/strange-advertising?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Save the Prisoner!",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/save-the-prisoner?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Circular Array Rotation",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/circular-array-rotation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sequence Equation",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/permutation-equation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jumping on the Clouds: Revisited",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Find Digits",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/find-digits?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Extra Long Factorials",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/extra-long-factorials?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Append and Delete",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/append-and-delete?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and Squares",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-squares?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Library Fine",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/library-fine?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cut the sticks",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cut-the-sticks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Non-Divisible Subset",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/non-divisible-subset?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Repeated String",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/repeated-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jumping on the Clouds",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/jumping-on-the-clouds?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Equalize the Array",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/equality-in-a-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Queen's Attack II",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/queens-attack-2?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "ACM ICPC Team",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/acm-icpc-team?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Taum and B'day",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/taum-and-bday?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Organizing Containers of Balls",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/organizing-containers-of-balls?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Encryption",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/encryption?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bigger is Greater",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bigger-is-greater?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Modified Kaprekar Numbers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/kaprekar-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful Triplets",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-triplets?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Minimum Distances",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/minimum-distances?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Halloween Sale",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/halloween-sale?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Time in Words",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-time-in-words?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Chocolate Feast",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/chocolate-feast?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Service Lane",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/service-lane?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lisa's Workbook",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/lisa-workbook?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Flatland Space Stations",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/flatland-space-stations?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fair Rations",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/fair-rations?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cavity Map",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cavity-map?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Manasa and Stones",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/manasa-and-stones?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Grid Search",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-grid-search?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Happy Ladybugs",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/happy-ladybugs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Strange Counter",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/strange-code?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "3D Surface Area",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/3d-surface-area?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Absolute Permutation",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/absolute-permutation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Bomberman Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bomber-man?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Ema's Supercomputer",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/two-pluses?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Larry's Array",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/larrys-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Almost Sorted",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/almost-sorted?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Matrix Layer Rotation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/matrix-rotation-algo?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Big Sorting",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/big-sorting?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Super Reduced String",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/reduced-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Intro to Tutorial Challenges",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tutorial-intro?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "CamelCase",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/camelcase?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Insertion Sort - Part 1",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/insertionsort1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Strong Password",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/strong-password?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Two Characters",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/two-characters?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Insertion Sort - Part 2",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/insertionsort2?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Correctness and the Loop Invariant",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/correctness-invariant?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Caesar Cipher",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/caesar-cipher-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mars Exploration",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/mars-exploration?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Running Time of Algorithms",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/runningtime?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "HackerRank in a String!",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/hackerrank-in-a-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Quicksort 1 - Partition",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/quicksort1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Pangrams",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/pangrams?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Weighted Uniform Strings",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/weighted-uniform-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Separate the Numbers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/separate-the-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Funny String",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/funny-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counting Sort 1",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/countingsort1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counting Sort 2",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/countingsort2?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Gemstones",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/gem-stones?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Alternating Characters",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/alternating-characters?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Full Counting Sort",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/countingsort4?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful Binary String",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-binary-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Closest Numbers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/closest-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Love-Letter Mystery",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/the-love-letter-mystery?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Find the Median",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/find-the-median?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Determining DNA Health",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/determining-dna-health?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Insertion Sort Advanced Analysis\nAdvancedProblem Solving (Advanced)Max Score: 50Success Rate: 40.59%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/insertion-sort?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Palindrome Index",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/palindrome-index?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fraudulent Activity Notifications",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/fraudulent-activity-notifications?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Anagram",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/anagram?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Making Anagrams",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/making-anagrams?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lily's Homework",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/lilys-homework?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Game of Thrones - I",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/game-of-thrones?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Two Strings",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/two-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "String Construction",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/string-construction?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and the Valid String",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-valid-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Highest Value Palindrome",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/richie-rich?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Maximum Palindromes",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/maximum-palindromes?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and Anagrams",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-anagrams?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Common Child",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/common-child?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bear and Steady Gene",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bear-and-steady-gene?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Morgan and a String\nExpertProblem Solving (Advanced)Max Score: 100Success Rate: 53.20%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/morgan-and-a-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Count Strings",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/count-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "String Function Calculation\nAdvancedMax Score: 80Success Rate: 65.13%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/string-function-calculation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Build a Palindrome\nAdvancedMax Score: 80Success Rate: 63.91%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/challenging-palindromes?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Build a String",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/build-a-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Gridland Provinces",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/gridland-provinces?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cards Permutation\nExpertMax Score: 85Success Rate: 76.36%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/cards-permutation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Ashton and String\nAdvancedMax Score: 100Success Rate: 65.73%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/ashton-and-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "String Similarity\nExpertProblem Solving (Advanced)Max Score: 100Success Rate: 44.10%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/string-similarity?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Super Functional Strings\nAdvancedMax Score: 80Success Rate: 65.30%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/super-functional-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Circular Palindromes\nAdvancedMax Score: 120Success Rate: 69.62%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/circular-palindromes?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Similar Strings\nAdvancedMax Score: 85Success Rate: 60.36%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/similar-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Save Humanity\nExpertMax Score: 100Success Rate: 44.24%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/save-humanity?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Find Strings\nExpertMax Score: 100Success Rate: 52.80%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/find-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Palindromic Border\nExpertMax Score: 100Success Rate: 79.68%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/palindromic-border?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Two Two\nAdvancedMax Score: 150Success Rate: 65.84%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/two-two?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Two Strings Game\nExpertMax Score: 100Success Rate: 83.04%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/two-strings-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Letter Islands\nExpertMax Score: 100Success Rate: 71.12%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/letter-islands?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Pseudo-Isomorphic Substrings\nExpertMax Score: 100Success Rate: 77.25%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "How Many Substrings?\nExpertMax Score: 100Success Rate: 37.17%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/how-many-substrings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Hackerland Radio Transmitters",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/hackerland-radio-transmitters?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Gridland Metro",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/gridland-metro?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Ice Cream Parlor",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/icecream-parlor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "KnightL on a Chessboard",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/knightl-on-chessboard?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Minimum Loss",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/minimum-loss?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Missing Numbers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/missing-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Pairs",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/pairs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and Array",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Maximum Subarray Sum",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/maximum-subarray-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Connected Cells in a Grid",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/connected-cell-in-a-grid?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Short Palindrome",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/short-palindrome?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Maximizing Mission Points",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/maximizing-mission-points?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Count Luck",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/count-luck?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cut the Tree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cut-the-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Making Candies",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/making-candies?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Gena Playing Hanoi",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/gena?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful Quadruples",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/xor-quadruples?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Red Knight's Shortest Path",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/red-knights-shortest-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bike Racers",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/bike-racers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Task Scheduling\nAdvancedMax Score: 70Success Rate: 63.89%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/task-scheduling?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Similar Pair\nAdvancedMax Score: 70Success Rate: 55.93%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/similarpair?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Absolute Element Sums",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/playing-with-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Almost Integer Rock Garden\nExpertMax Score: 80Success Rate: 85.63%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/almost-integer-rock-garden?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sorted Subsegments",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/sorted-subsegments?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Distant Pairs\nExpertMax Score: 80Success Rate: 71.85%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/distant-pairs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "King Richard's Knights",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/king-richards-knights?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Frog in Maze",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/frog-in-maze?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Roads and Libraries",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/torque-and-development?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Journey to the Moon",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/journey-to-the-moon?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Synchronous Shopping",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/synchronous-shopping?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Subset Component",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/subset-component?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Breadth First Search: Shortest Reach",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bfsshortreach?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Kruskal (MST): Really Special Subtree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/kruskalmstrsub?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Even Tree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/even-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Snakes and Ladders: The Quickest Way Up",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-quickest-way-up?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Dijkstra: Shortest Reach 2",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/dijkstrashortreach?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Story of a Tree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-story-of-a-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Prim's (MST) : Special Subtree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/primsmstsub?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Toll Cost Digits",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/toll-cost-digits?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Real Estate Broker",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/real-estate-broker?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Clique",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/clique?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Minimum Penalty Path",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Demanding Money",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/borrowing-money?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Value of Friendship",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/value-of-friendship?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Coprime Paths\nExpertMax Score: 80Success Rate: 81.52%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/coprime-paths?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Minimum MST Graph\nExpertMax Score: 80Success Rate: 76.97%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/minimum-mst-graph?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jack goes to Rapture",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/jack-goes-to-rapture?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Crab Graphs",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/crab-graphs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bead Ornaments\nAdvancedProblem Solving (Advanced)Max Score: 70Success Rate: 87.52%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/beadornaments?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jeanie's Route",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/jeanies-route?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Floyd : City of Blinding Lights",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Roads in HackerLand",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/johnland?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Kingdom Connectivity",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/kingdom-connectivity?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Computer Game",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/computer-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Rust & Murderer",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/rust-murderer?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Problem solving",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/problem-solving?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Journey Scheduling",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/journey-scheduling?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Matrix",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/matrix?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Recording Episodes",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/episode-recording?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Repair Roads",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/repair-roads?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Kth Ancestor",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/kth-ancestor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "ByteLandian Tours",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/bytelandian-tours?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Find the Path",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/shortest-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Savita And Friends",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/savita-and-friends?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Liars\nAdvancedMax Score: 85Success Rate: 79.48%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/liars?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jumping Rooks\nAdvancedMax Score: 80Success Rate: 80.76%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/jumping-rooks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tripartite Matching",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/tripartite-matching?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tree Flow",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/tree-flow?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "DAG Queries\nExpertMax Score: 80Success Rate: 60.16%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/dag-queries?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Favorite sequence\nAdvancedMax Score: 95Success Rate: 64.35%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/favourite-sequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jogging Cats\nAdvancedMax Score: 80Success Rate: 71.30%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/cat-jogging?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Quadrant Queries\nAdvancedMax Score: 100Success Rate: 55.27%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/quadrant-queries?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Hacker Country",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/hacker-country?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "HackerX",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/missile-defend?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Huarongdao\nExpertMax Score: 100Success Rate: 73.83%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/huarongdao?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Training the army",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/training-the-army?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jim and his LAN Party",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/jim-and-his-lan-party?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Travel in HackerLand",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/travel-in-hackerland?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Alex vs Fedor\nExpertMax Score: 150Success Rate: 87.74%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/alex-vs-fedor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Vertical Paths\nExpertMax Score: 100Success Rate: 90.56%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/vertical-paths?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Drive\nExpertMax Score: 90Success Rate: 77.40%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/drive?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Travelling Salesman in a Grid\nExpertMax Score: 100Success Rate: 64.23%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/tsp-grid?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Road Network\nExpertMax Score: 90Success Rate: 80.08%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/road-network?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Going to the Office\nExpertMax Score: 100Success Rate: 58.20%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/going-office?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tree Splitting\nAdvancedMax Score: 100Success Rate: 83.64%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/tree-splitting?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Ticket\nExpertMax Score: 100Success Rate: 73.57%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/ticket?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "DFS Edges\nExpertMax Score: 100Success Rate: 82.91%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/dfs-edges?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Diameter Minimization\nExpertMax Score: 100Success Rate: 81.95%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/diameter-minimization?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Airports\nExpertMax Score: 100Success Rate: 87.25%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/airports?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Definite Random Walks\nExpertMax Score: 100Success Rate: 85.28%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/definite-random-walks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Minimum Absolute Difference in an Array",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Marc's Cakewalk",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/marcs-cakewalk?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Grid Challenge",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/grid-challenge?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Luck Balance",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/luck-balance?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Maximum Perimeter Triangle",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/maximum-perimeter-triangle?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful Pairs",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-pairs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Candies",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/candies?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and The Beast",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-the-beast?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Priyanka and Toys",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/priyanka-and-toys?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Largest Permutation",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/largest-permutation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mark and Toys",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/mark-and-toys?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Greedy Florist",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/greedy-florist?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Max Min",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/angry-children?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Jim and the Orders",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/jim-and-the-orders?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Permuting Two Arrays",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/two-arrays?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cutting Boards",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/board-cutting?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Reverse Shuffle Merge\nAdvancedProblem Solving (Advanced)Max Score: 50Success Rate: 59.82%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/reverse-shuffle-merge?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Goodland Electricity",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/pylons?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cloudy Day",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cloudy-day?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Chief Hopper",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/chief-hopper?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and MiniMax",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-minimax?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Accessory Collection",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/accessory-collection?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Team Formation\nAdvancedMax Score: 70Success Rate: 48.17%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/team-formation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fighting Pits",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/fighting-pits?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lena Sort",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/lena-sort?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Coin Change Problem",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/coin-change?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Equal",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/equal?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Flipping the Matrix",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/flipping-the-matrix?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock and Cost",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-cost?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Gaming Array",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/an-interesting-game-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "New Year Chaos",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/new-year-chaos?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Construct the Array",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/construct-the-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bonetrousle",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bonetrousle?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Kingdom Division",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/kingdom-division?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Yet Another KMP Problem",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/kmp-problem?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sam and substrings",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sam-and-substrings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful 3 Set",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-3-set?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fibonacci Modified",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/fibonacci-modified?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Inverse RMQ",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/inverse-rmq?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Abbreviation",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/abbr?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Two Subarrays\nExpertMax Score: 70Success Rate: 70.38%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/two-subarrays?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Prime XOR",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/prime-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lovely Triplets\nAdvancedMax Score: 80Success Rate: 82.29%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/lovely-triplets?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Array Construction\nAdvancedMax Score: 80Success Rate: 68.21%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/array-construction?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Decibinary Numbers",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/decibinary-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fair Cut",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/fair-cut?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Maximum Subarray",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/maxsubarray?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Angry Children 2",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/angry-children-2?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sherlock's Array Merging Algorithm",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Prime Digit Sums",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/prime-digit-sums?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "HackerRank City",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/hr-city?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Summing Pieces",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/summing-pieces?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mr K marsh",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/mr-k-marsh?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Substring Diff",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/substring-diff?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Xor and Sum",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/xor-and-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lego Blocks",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/lego-blocks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Brick Tiling",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/brick-tiling?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Alien Languages",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/alien-languages?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Stock Maximize",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/stockmax?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Two Robots",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/two-robots?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cut Tree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cuttree?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tara's Beautiful Permutations",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/taras-beautiful-permutations?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Wet Shark and Two Subsequences",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Nikita and the Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/array-splitting?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Choosing White Balls",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/choosing-white-balls?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mandragora Forest",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/mandragora?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Red John is Back",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/red-john-is-back?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "LCS Returns",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/tutzki-and-lcs?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Grid Walking",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/grid-walking?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Matrix Land",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/matrix-land?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Knapsack",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/unbounded-knapsack?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bricks Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/play-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Longest Increasing Subsequence\nAdvancedProblem Solving (Advanced)Max Score: 60Success Rate: 45.34%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/longest-increasing-subsequent?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Coin on the Table",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/coin-on-the-table?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Longest Common Subsequence",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Play with words",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/strplay?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Black and White Tree",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/black-n-white-tree-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counting Special Sub-Cubes",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/counting-special-sub-cubes?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Interval Selection",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/interval-selection?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "String Reduction",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/string-reduction?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Far Vertices",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/far-vertices?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counting Road Networks\nExpertMax Score: 90Success Rate: 79.11%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/counting-road-networks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Superman Celebrates Diwali",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/superman-celebrates-diwali?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Hexagonal Grid",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/hexagonal-grid?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Queens on Board",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/queens-on-board?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Shashank and the Palindromic Strings\nAdvancedMax Score: 60Success Rate: 84.38%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/shashank-and-palindromic-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Points in a Plane\nAdvancedMax Score: 80Success Rate: 71.97%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/points-in-a-plane?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Turn Off the Lights",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/turn-off-the-lights?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Animal Transport",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/animal-transport?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Indian Job",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-indian-job?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Requirement\nAdvancedMax Score: 80Success Rate: 68.36%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/requirement?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "A Super Hero",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/a-super-hero?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Clues on a Binary Path",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/clues-on-a-binary-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Road Maintenance",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/road-maintenance?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Billboards\nAdvancedMax Score: 80Success Rate: 45.96%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/billboards?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Beautiful Strings",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Covering the stains",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/covering-the-stains?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "GCD Matrix",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/gcd-matrix?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fairy Chess\nAdvancedMax Score: 80Success Rate: 72.83%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/fairy-chess?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Suffix Rotation\nExpertMax Score: 80Success Rate: 70.05%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/suffix-rotation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "New Year Present",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/newyear-present?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Travel around the world",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/travel-around-the-world?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Longest Palindromic Subsequence",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/longest-palindromic-subsequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Candles Counting",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/candles-2?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Hyper Strings\nAdvancedMax Score: 90Success Rate: 52.86%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/hyper-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Swap Permutation",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/swappermutation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Extremum Permutations",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/extremum-permutations?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Square Subsequences",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/square-subsequences?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Dorsey Thief\nAdvancedMax Score: 85Success Rate: 58.76%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/dorsey-thief?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mining\nAdvancedMax Score: 75Success Rate: 73.92%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/mining?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Police Operation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/police-operation?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Zurikela's Graph",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/zurikela?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Modify The Sequence\nAdvancedMax Score: 100Success Rate: 38.60%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/modify-the-sequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Longest Mod Path",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/longest-mod-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "P-sequences",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/p-sequences?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Robot\nAdvancedMax Score: 120Success Rate: 65.94%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/robot?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lucky Numbers\nExpertMax Score: 100Success Rate: 29.40%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/lucky-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Unfair Game\nAdvancedMax Score: 100Success Rate: 72.94%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/unfair-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Oil Well",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/oil-well?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Find the Seed\nAdvancedMax Score: 100Success Rate: 71.41%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/find-the-seed?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Blacklist\nAdvancedMax Score: 100Success Rate: 69.88%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/the-blacklist?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tree Pruning\nAdvancedMax Score: 100Success Rate: 71.03%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/tree-pruning?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Ones and Twos",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/ones-and-twos?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Count Scorecards\nExpertMax Score: 100Success Rate: 65.27%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/count-scorecards?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Vim War\nAdvancedMax Score: 120Success Rate: 73.31%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/vim-war?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Best spot\nAdvancedMax Score: 100Success Rate: 63.96%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/best-spot?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Divisible Numbers\nExpertMax Score: 100Success Rate: 34.58%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/divisible-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Unique Divide And Conquer\nAdvancedMax Score: 90Success Rate: 75.53%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/unique-divide-and-conquer?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "King and Four Sons\nExpertMax Score: 100Success Rate: 78.62%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/happy-king?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Dortmund Dilemma\nAdvancedMax Score: 150Success Rate: 86.63%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/dortmund-dilemma?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Super Kth LIS\nAdvancedMax Score: 90Success Rate: 75.89%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/super-kth-lis?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counting the Ways\nExpertMax Score: 100Success Rate: 66.32%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/count-ways-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/hard-drive-disks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Separate the chocolate\nExpertMax Score: 250Success Rate: 73.10%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/separate-the-chocolate?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Lonely Integer",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/lonely-integer?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Maximizing XOR",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/maximizing-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Counter game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/counter-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Xor-sequence",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/xor-se?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sum vs XOR",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sum-vs-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Great XOR",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-great-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Flipping bits",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/flipping-bits?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Yet Another Minimax Problem",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/yet-another-minimax-problem?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sansa and XOR",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sansa-and-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "AND Product",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/and-product?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Winning Lottery Ticket",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/winning-lottery-ticket?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Xoring Ninja",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/xoring-ninja?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Cipher",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cipher?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "XOR Matrix",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/xor-matrix?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "What's Next?",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/whats-next?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "String Transmission",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/string-transmission?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "A or B",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/aorb?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Manipulative Numbers",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/manipulative-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Stone Game",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/stonegame?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "2's complement\nAdvancedMax Score: 70Success Rate: 46.03%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/2s-complement?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Changing Bits\nAdvancedMax Score: 70Success Rate: 50.41%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/changing-bits?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "XOR key\nAdvancedMax Score: 80Success Rate: 35.18%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/xor-key?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Maximizing the Function",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/maximizing-the-function?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "XOR Subsequences\nAdvancedMax Score: 80Success Rate: 56.32%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/xor-subsequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Iterate It\nExpertMax Score: 90Success Rate: 42.89%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/iterate-it?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Hamming Distance\nExpertMax Score: 150Success Rate: 55.43%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/hamming-distance?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Mixing proteins",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/pmix?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Power Sum",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-power-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Crossword Puzzle",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/crossword-puzzle?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Recursive Digit Sum",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/recursive-digit-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Simplified Chess Engine",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/simplified-chess-engine?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Password Cracker",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/password-cracker?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Arithmetic Expressions",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/arithmetic-expressions?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Stone Division, Revisited",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/stone-division-2?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "K Factorization",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/k-factorization?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bowling Pins",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/bowling-pins?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Simplified Chess Engine II",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/simplified-chess-engine-ii?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Repetitive K-Sums\nAdvancedMax Score: 150Success Rate: 71.75%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/repeat-k-sums?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Game of Stones",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/game-of-stones-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tower Breakers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tower-breakers-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "A Chessboard Game",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/a-chessboard-game-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Introduction to Nim Game",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/nim-game-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Misère Nim",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/misere-nim-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Nimble Game",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/nimble-game-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Alice and Bob's Silly Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/alice-and-bobs-silly-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Poker Nim",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/poker-nim-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tower Breakers, Revisited!",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/tower-breakers-revisited-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tower Breakers, Again!",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/tower-breakers-again-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Zero-Move Nim",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/zero-move-nim?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Chessboard Game, Again!",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/chessboard-game-again-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Digits Square Board",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/digits-square-board-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Fun Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/fun-game-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Stone Division",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/stone-division?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Chocolate in Box",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/chocolate-in-box?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Kitty and Katty",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/kitty-and-katty?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Powers Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/powers-game-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Deforestation",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/deforestation-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Bob and Ben",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bob-and-ben?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tower Breakers - The Final Battle",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Simple Game",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/simple-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Permutation game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/permutation-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Move the Coins",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/move-the-coins?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Play on benders",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/benders-play?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "New Year Game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/newyear-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Stone Piles",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/stone-piles?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Chocolate Game",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/chocolate-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "The Prime Game",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/the-prime-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Vertical Rooks",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/vertical-rooks?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "A stones game",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/half?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Tastes Like Winning\nExpertMax Score: 100Success Rate: 61.11%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/taste-of-win?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Walking the Approximate Longest Path",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/walking-the-approximate-longest-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Sam's Puzzle (Approximate)\nAdvancedMax Score: 85Success Rate: 66.39%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/sams-puzzle?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Spies, Revised\nExpertMax Score: 100Success Rate: 2.48%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/spies-revised?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "TBS Problem\nExpertMax Score: 100Success Rate: 4.01%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/tbsp?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Prime Dates",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/prime-date?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Minimum Operations",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/minimum-operations?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "XOR Strings",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/strings-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Zig Zag Sequence",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/zig-zag-sequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Algorithms",
+    "Title": "Smart Number",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/smart-number?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Arrays - DS",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/arrays-ds?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "2D Array - DS",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/2d-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Dynamic Array",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/dynamic-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Left Rotation",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/array-left-rotation?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Sparse Arrays",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sparse-arrays?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Array Manipulation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/crush?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Print the Elements of a Linked List",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Insert a Node at the Tail of a Linked List",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Insert a node at the head of a linked list",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Insert a node at a specific position in a linked list",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Delete a Node",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Print in Reverse",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Reverse a linked list",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/reverse-a-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Compare two linked lists",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/compare-two-linked-lists?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Merge two sorted linked lists",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Get Node Value",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Delete duplicate-value nodes from a sorted linked list",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Cycle Detection",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Find Merge Point of Two Lists",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Inserting a Node Into a Sorted Doubly Linked List",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Reverse a doubly linked list",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree: Preorder Traversal",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tree-preorder-traversal?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree: Postorder Traversal",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tree-postorder-traversal?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree: Inorder Traversal",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tree-inorder-traversal?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree: Height of a Binary Tree",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree : Top View",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tree-top-view?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree: Level Order Traversal",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/tree-level-order-traversal?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Binary Search Tree : Insertion",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/binary-search-tree-insertion?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree: Huffman Decoding",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/tree-huffman-decoding?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Binary Search Tree : Lowest Common Ancestor",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Swap Nodes [Algo]",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/swap-nodes-algo?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Kitty's Calculations on a Tree\nAdvancedProblem Solving (Advanced)Max Score: 80Success Rate: 65.97%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Is This a Binary Search Tree?",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/is-binary-search-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Square-Ten Tree",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/square-ten-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Balanced Forest",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/balanced-forest?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Jenny's Subtrees",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/jenny-subtrees?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Tree Coordinates\nExpertMax Score: 100Success Rate: 68.92%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/tree-coordinates?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Array Pairs\nAdvancedMax Score: 100Success Rate: 26.77%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/array-pairs?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Self Balancing Tree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/self-balancing-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Array and simple queries",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/array-and-simple-queries?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Median Updates",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/median?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Merging Communities",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/merging-communities?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "QHEAP1",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/qheap1?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Maximum Element",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/maximum-element?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Queue using Two Stacks",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/queue-using-two-stacks?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Components in a graph",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/components-in-graph?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Balanced Brackets",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/balanced-brackets?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Castle on the Grid",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/castle-on-the-grid?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Jesse and Cookies",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/jesse-and-cookies?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Kundu and Tree",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/kundu-and-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Find the Running Median",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/find-the-running-median?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Down to Zero II",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/down-to-zero-ii?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Equal Stacks",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/equal-stacks?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Minimum Average Waiting Time",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/minimum-average-waiting-time?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Truck Tour",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/truck-tour?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Game of Two Stacks",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/game-of-two-stacks?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Largest Rectangle",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/largest-rectangle?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Queries with Fixed Length",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/queries-with-fixed-length?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Super Maximum Cost Queries",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/maximum-cost-queries?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Simple Text Editor",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/simple-text-editor?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Poisonous Plants",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/poisonous-plants?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "AND xor OR",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/and-xor-or?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Waiter",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/waiter?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Contacts",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/contacts?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "No Prefix Set",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/no-prefix-set?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Data Structures MCQ 1\nMultiple Choice QuestionMax Score: 5Success Rate: 71.30%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/how-well-do-you-know-trees?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Data Structures MCQ 2\nMultiple Choice QuestionMax Score: 5Success Rate: 59.33%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Data Structures MCQ 3\nMultiple Choice QuestionMax Score: 5Success Rate: 88.74%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Kindergarten Adventures",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/kindergarten-adventures?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Cube Summation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/cube-summation?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Mr. X and His Shots",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/x-and-his-shots?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Direct Connections",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/direct-connections?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Subsequence Weighting\nAdvancedMax Score: 60Success Rate: 70.71%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/subsequence-weighting?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Jim and the Skyscrapers",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/jim-and-the-skyscrapers?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Palindromic Subsets",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/palindromic-subsets?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Counting On a Tree\nExpertMax Score: 100Success Rate: 75.30%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/counting-on-a-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Polynomial Division",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/polynomial-division?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Costly Intervals",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/costly-intervals?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "The Strange Function",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/the-strange-function?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Self-Driving Bus\nAdvancedMax Score: 100Success Rate: 79.20%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/self-driving-bus?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Unique Colors\nAdvancedMax Score: 100Success Rate: 88.44%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/unique-colors?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Fibonacci Numbers Tree\nExpertMax Score: 100Success Rate: 85.10%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/fibonacci-numbers-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Pair Sums\nExpertMax Score: 80Success Rate: 66.96%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/pair-sums?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Functional Palindromes\nAdvancedMax Score: 80Success Rate: 82.14%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/functional-palindromes?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Lazy White Falcon",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/lazy-white-falcon?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Ticket to Ride\nExpertMax Score: 100Success Rate: 86.00%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/ticket-to-ride?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Heavy Light White Falcon",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/heavy-light-white-falcon?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Sum of the Maximums\nAdvancedMax Score: 90Success Rate: 71.38%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Number Game on a Tree\nExpertMax Score: 80Success Rate: 89.58%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/number-game-on-a-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Heavy Light 2 White Falcon",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/heavy-light-2-white-falcon?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Library Query\nAdvancedMax Score: 80Success Rate: 81.28%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/library-query?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Starfleet\nAdvancedMax Score: 100Success Rate: 86.03%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/starfleet?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Almost Equal - Advanced\nExpertMax Score: 100Success Rate: 63.19%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/almost-equal-advanced?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Almost sorted interval\nExpertMax Score: 100Success Rate: 40.99%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/almost-sorted-interval?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Burger Happiness",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/burger-happiness?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Roy and alpha-beta trees",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Coloring Tree",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/coloring-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Recalling Early Days GP with Trees",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Swaps and Sum\nAdvancedMax Score: 120Success Rate: 67.62%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/swaps-and-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Arithmetic Progressions\nAdvancedMax Score: 80Success Rate: 78.98%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/arithmetic-progressions?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Coolguy and Two Subsequences\nAdvancedMax Score: 120Success Rate: 82.30%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/coolguy-and-two-subsequences?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "White Falcon And Tree",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/white-falcon-and-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Subtrees And Paths\nAdvancedMax Score: 120Success Rate: 86.91%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/subtrees-and-paths?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Triplets\nAdvancedMax Score: 90Success Rate: 40.66%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/triplets?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Beautiful Segments\nExpertMax Score: 120Success Rate: 80.27%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/beautiful-segments?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Divisibility\nExpertMax Score: 120Success Rate: 71.93%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/ab0?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "BST maintenance\nAdvancedMax Score: 140Success Rate: 72.98%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/bst-maintenance?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Find Maximum Index Product",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/find-maximum-index-product?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Taxicab Driver's Problem\nAdvancedMax Score: 150Success Rate: 78.50%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/taxicab-drivers-problem?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Jaggu Playing with Balloons\nAdvancedMax Score: 150Success Rate: 82.95%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/jagia-playing-with-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Dynamic Summation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/dynamic-summation?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Two Array Problem",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/weird-queries?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Rooted Tree",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/rooted-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "The crazy helix\nAdvancedMax Score: 150Success Rate: 72.94%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/helix?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Network administration",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/net-admin?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/easy-addition?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Find the permutation\nExpertMax Score: 150Success Rate: 86.39%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/find-the-permutation?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Company Retreat\nAdvancedMax Score: 100Success Rate: 85.43%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/company-retreat?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Box Operations\nExpertMax Score: 100Success Rate: 75.10%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/box-operations?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Max Transform\nExpertMax Score: 100Success Rate: 82.05%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/max-transform?isFullScreen=true"
+  },
+  {
+    "Domain": "Data Structures",
+    "Title": "Array and Queries",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/array-and-queries-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Find the Point",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/find-point?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Maximum Draws",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/maximum-draws?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Handshake",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/handshake?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Minimum Height Triangle",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/lowest-triangle?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Army Game",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/game-with-cells?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Leonardo's Prime Factors",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/leonardo-and-prime?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Connecting Towns",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/connecting-towns?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Cutting Paper Squares",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/p1-paper-cutting?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Summing the N series",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/summing-the-n-series?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sherlock and Moving Tiles",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-moving-tiles?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Best Divisor",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/best-divisor?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Restaurant",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/restaurant?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Reverse Game",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/reverse-game?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Strange Grid Again",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/strange-grid?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Diwali Lights",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/diwali-lights?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sherlock and Divisors",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-divisors?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sherlock and Permutations",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-permutations?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Even Odd Query",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/even-odd-query?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Special Multiple",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/special-multiple?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Matrix Tracing",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/matrix-tracing?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Die Hard 3",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/die-hard-3?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Halloween party",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/halloween-party?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Filling Jars",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/filling-jars?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Is Fibo",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/is-fibo?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "K Candy Store",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/k-candy-store?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sumar and the Floating Rocks",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Russian Peasant Exponentiation",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/russian-peasant-exponentiation?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Bus Station",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/bus-station?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Most Distant",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/most-distant?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Jim and the Jokes",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/jim-and-the-jokes?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Possible Path",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/possible-path?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Mutual Recurrences",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/mutual-recurrences?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Constructing a Number",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/constructing-a-number?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Closest Number",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/closest-number?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sherlock and GCD",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-gcd?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Primitive Problem",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/primitive-problem?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Identify Smith Numbers",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/identify-smith-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Euler's Criterion",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/eulers-criterion?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Twins",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/twins?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Fibonacci Finding (easy)",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/fibonacci-finding-easy?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Little Panda Power",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/littlepandapower?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Mehta and his Laziness",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/mehta-and-his-laziness?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Minimal Distance to Pi",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/minimal-distance-to-pi?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Help Mike",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/help-mike?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Dancing in Pairs",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/dance-class?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "The Chosen One",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/the-chosen-one?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Power of large numbers",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/power-of-large-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Salary Blues",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/salary-blues?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Akhil and GF",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/akhil-and-gf?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Little Ashish's Huge Donation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/little-chammys-huge-donation?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Manasa and Factorials",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/manasa-and-factorials?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Number of zero-xor subsets",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/number-of-subsets?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Breaking Sticks",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/breaking-sticks?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Cheese and Random Toppings",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cheese-and-random-toppings?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/easy-gcd-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Satisfactory Pairs",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/pairs-again?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Manasa loves Maths",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/manasa-loves-maths?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Largest Non-Coprime Submatrix",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/largest-coprime-submatrix?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "John and GCD list",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/john-and-gcd-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Divisor Exploration II",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/divisor-exploration-2?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Strange numbers",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/strange-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/easy-math?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Equations",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/equations?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Binomial Coefficients",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/binomial-coefficients?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Lucy and Flowers",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/lucy-and-flowers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Divisor Exploration 3",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/divisor-exploration-3?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Superpowers of 2\nAdvancedMax Score: 60Success Rate: 67.69%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/superpowers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sherlock Puzzle",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-puzzle?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Divisibility of Power",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/divisibility-of-power?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Devu Vs Police",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/devu-police?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "A Weird Function",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/a-weird-function?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Coprime Conundrum",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/arthur-and-coprimes?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Long Permutation",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/long-permutation?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Megaprime Numbers",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/megaprime-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Divisor Exploration",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/divisor-exploration?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Ants",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/ants?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Ichigo and Cubes",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/ichigo-and-cubes?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Scalar Products",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/scalar-products?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Prime Sum",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/prime-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Number of M-Coprime Arrays",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/number-of-m-coprime-arrays?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Hyperrectangle GCD",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/hyperrectangle-gcd?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "nCr\nExpertMax Score: 120Success Rate: 20.67%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/ncr?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Chandrima and XOR",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/chandrima-and-xor?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Find The Operations",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/flip?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Fibonacci GCD",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/fibonacci-gcd?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Ichigo and Rooms",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/ichigo-and-rooms?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "A Very Special Multiple",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/a-very-special-multiple?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Fibonacci LCM",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/fibonacci-lcm?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Unfriendly Numbers",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/unfriendly-numbers?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "HackerRank Number\nExpertMax Score: 80Success Rate: 59.10%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/hackerrank-number?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Ajob Subsequence",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/ajob-subsequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "GCD Product",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/gcd-product?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "The Bouncing Flying Ball",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/the-bouncing-flying-ball?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Eugene and Big Number",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/eugene-and-big-number?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Matrix Tree",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/matrix-tree?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Period",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/period?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Nice Clique",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/niceclique?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Order of Prime in Factorial",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/order-of-prime-in-factorial?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Degree of an algebraic number\nAdvancedMax Score: 100Success Rate: 83.65%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/degree-of-an-algebraic-number?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Computer Virus\nAdvancedMax Score: 100Success Rate: 45.52%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/demidenko-computer-virus?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "GCD Sequence",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/gcd-sequence?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Coprime Power Sum\nAdvancedMax Score: 75Success Rate: 63.83%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/coprime-power-sum?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Fun with 1010\nExpertMax Score: 120Success Rate: 90.91%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/fun-with-1010?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "GCD mocktail\nAdvancedMax Score: 150Success Rate: 75.38%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/gcd-mocktail?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Laser Beam\nExpertMax Score: 120Success Rate: 92.31%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/laser-beam?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Down the Rabbit Hole",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/down-the-rabbit-hole?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Minion of the Year\nExpertMax Score: 120Success Rate: 67.14%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/minion-of-the-year?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Bear And Cryptography\nAdvancedMax Score: 100Success Rate: 52.78%\nSolve Challenge",
+    "Tag": "Unknown",
+    "URL": "https://www.hackerrank.com/challenges/bear-and-cryptography?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "nCr table",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/ncr-table?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Coinage",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/coinage?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Building a List",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/building-a-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Merge List",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/merge-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "A Chocolate Fiesta",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/a-chocolate-fiesta?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Mehta and the Typical Supermarket",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/mehta-and-the-typical-supermarket?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Choose and Calculate",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/choose-and-calculate?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Sherlock and Pairs",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sherlock-and-pairs?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Consecutive Subsequences",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/consecutive-subsequences?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Anti-Palindromic Strings",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/antipalindromic-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Lexicographic paths",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/lexicographic-steps?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Number List",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/number-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Game Of Thrones - II",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/game-of-throne-ii?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Journey to Mars",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/ajourney?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Super Humble Matrix",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/super-humble-matrix?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Volleyball Match",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/volleyball-match?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Picking Cards",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/picking-cards?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Cyclic Quadruples",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cyclicquadruples?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Permutation Problem",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/permutation-problem?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Longest Increasing Subsequence Arrays",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/longest-increasing-subsequence-arrays?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Digit Products",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/digit-products?isFullScreen=true"
+  },
+  {
+    "Domain": "Mathematics",
+    "Title": "Towers",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/towers?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Say \"Hello, World!\" With C++",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cpp-hello-world?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Input and Output",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cpp-input-and-output?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Basic Data Types",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-basic-data-types?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Conditional Statements",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "For Loop",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-for-loop?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Functions",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-functions?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Pointer",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-pointer?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Arrays Introduction",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/arrays-introduction?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Variable Sized Arrays",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/variable-sized-arrays?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Attribute Parser",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/attribute-parser?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "StringStream",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-stringstream?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Strings",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-strings?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Structs",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-struct?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Class",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-tutorial-class?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Classes and Objects",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/classes-objects?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Box It!",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/box-it?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Inherited Code",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/inherited-code?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Exceptional Server",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/exceptional-server?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Virtual Functions",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/virtual-functions?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Abstract Classes - Polymorphism",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/abstract-classes-polymorphism?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Vector-Sort",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/vector-sort?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Vector-Erase",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/vector-erase?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Lower Bound-STL",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cpp-lower-bound?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Sets-STL",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cpp-sets?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Maps-STL",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/cpp-maps?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Print Pretty",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/prettyprint?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Deque-STL",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/deque-stl?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Inheritance Introduction",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/inheritance-introduction?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Hotel Prices",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/hotel-prices?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Cpp exception handling",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cpp-exception-handling?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Rectangle Area",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/rectangle-area?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Multi Level Inheritance",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/multi-level-inheritance-cpp?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Overloading Ostream Operator",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/overloading-ostream-operator?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Messages Order",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/messages-order?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Accessing Inherited Functions",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/accessing-inherited-functions?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Magic Spells",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/magic-spells?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "C++ Class Templates",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/c-class-templates?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Preprocessor Solution",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/preprocessor-solution?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Operator Overloading",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/operator-overloading?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Overload Operators",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/overload-operators?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Attending Workshops",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/attending-workshops?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "C++ Class Template Specialization",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/cpp-class-template-specialization?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "C++ Variadics",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/cpp-variadics?isFullScreen=true"
+  },
+  {
+    "Domain": "C++",
+    "Title": "Bit Array",
+    "Tag": "Hard",
+    "URL": "https://www.hackerrank.com/challenges/bitset-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Welcome to Java!",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/welcome-to-java?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Stdin and Stdout I",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-stdin-and-stdout-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java If-Else",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-if-else?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Stdin and Stdout II",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-stdin-stdout?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Output Formatting",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-output-formatting?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Loops I",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-loops-i?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Loops II",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-loops?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Datatypes",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-datatypes?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java End-of-file",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-end-of-file?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Static Initializer Block",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-static-initializer-block?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Int to String",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-int-to-string?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Date and Time",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-date-and-time?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Currency Formatter",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-currency-formatter?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Strings Introduction",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-strings-introduction?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Substring",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-substring?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Substring Comparisons",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-string-compare?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java String Reverse",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-string-reverse?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Anagrams",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-anagrams?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java String Tokens",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-string-tokens?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Pattern Syntax Checker",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/pattern-syntax-checker?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Regex",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-regex?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Regex 2 - Duplicate Words",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/duplicate-word?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Valid Username Regular Expression",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/valid-username-checker?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Tag Content Extractor",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/tag-content-extractor?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java BigDecimal",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-bigdecimal?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Primality Test",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-primality-test?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java BigInteger",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-biginteger?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java 1D Array",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-1d-array-introduction?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java 2D Array",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-2d-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Subarray",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-negative-subarray?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Arraylist",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-arraylist?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java 1D Array (Part 2)",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-1d-array?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java List",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-list?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Map",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/phone-book?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Stack",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-stack?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Hashset",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-hashset?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Generics",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-generics?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Comparator",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-comparator?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Sort",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-sort?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Dequeue",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-dequeue?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java BitSet",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-bitset?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Priority Queue",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-priority-queue?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Inheritance I",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-inheritance-1?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Inheritance II",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-inheritance-2?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Abstract Class",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-abstract-class?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Interface",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-interface?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Method Overriding",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-method-overriding?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Method Overriding 2 (Super Keyword)",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Instanceof keyword",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-instanceof-keyword?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Iterator",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-iterator?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Exception Handling (Try-catch)",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-exception-handling-try-catch?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Exception Handling",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-exception-handling?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Varargs - Simple Addition",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Reflection - Attributes",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-reflection-attributes?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Can You Access?",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/can-you-access?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Prime Checker",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/prime-checker?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Factory Pattern",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-factory?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Singleton Pattern",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-singleton?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Visitor Pattern",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-vistor-pattern?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Annotations",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-annotations?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Covariant Return Types",
+    "Tag": "Easy",
+    "URL": "https://www.hackerrank.com/challenges/java-covariance?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java Lambda Expressions",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-lambda-expressions?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java MD5",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/java-md5?isFullScreen=true"
+  },
+  {
+    "Domain": "Java",
+    "Title": "Java SHA-256",
+    "Tag": "Medium",
+    "URL": "https://www.hackerrank.com/challenges/sha-256?isFullScreen=true"
+  }
+]

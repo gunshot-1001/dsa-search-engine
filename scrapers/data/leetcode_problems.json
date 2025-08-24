@@ -1,0 +1,902 @@
+[
+  {
+    "Domain": "Array",
+    "Title": "1. Two Sum",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/two-sum?envType=problem-list-v2&envId=array"
+  },
+  {
+    "Domain": "Array",
+    "Title": "4. Median of Two Sorted Arrays",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/median-of-two-sorted-arrays?envType=problem-list-v2&envId=array"
+  },
+  {
+    "Domain": "Array",
+    "Title": "11. Container With Most Water",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=array"
+  },
+  {
+    "Domain": "Array",
+    "Title": "14. Longest Common Prefix",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/longest-common-prefix?envType=problem-list-v2&envId=array"
+  },
+  {
+    "Domain": "Array",
+    "Title": "15. 3Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/3sum?envType=problem-list-v2&envId=array"
+  },
+  {
+    "Domain": "String",
+    "Title": "3. Longest Substring Without Repeating Characters",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-substring-without-repeating-characters?envType=problem-list-v2&envId=string"
+  },
+  {
+    "Domain": "String",
+    "Title": "5. Longest Palindromic Substring",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-palindromic-substring?envType=problem-list-v2&envId=string"
+  },
+  {
+    "Domain": "String",
+    "Title": "6. Zigzag Conversion",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/zigzag-conversion?envType=problem-list-v2&envId=string"
+  },
+  {
+    "Domain": "String",
+    "Title": "8. String to Integer (atoi)",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/string-to-integer-atoi?envType=problem-list-v2&envId=string"
+  },
+  {
+    "Domain": "String",
+    "Title": "10. Regular Expression Matching",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/regular-expression-matching?envType=problem-list-v2&envId=string"
+  },
+  {
+    "Domain": "Hash Table",
+    "Title": "1. Two Sum",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/two-sum?envType=problem-list-v2&envId=hash-table"
+  },
+  {
+    "Domain": "Hash Table",
+    "Title": "3. Longest Substring Without Repeating Characters",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-substring-without-repeating-characters?envType=problem-list-v2&envId=hash-table"
+  },
+  {
+    "Domain": "Hash Table",
+    "Title": "12. Integer to Roman",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/integer-to-roman?envType=problem-list-v2&envId=hash-table"
+  },
+  {
+    "Domain": "Hash Table",
+    "Title": "13. Roman to Integer",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/roman-to-integer?envType=problem-list-v2&envId=hash-table"
+  },
+  {
+    "Domain": "Hash Table",
+    "Title": "17. Letter Combinations of a Phone Number",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/letter-combinations-of-a-phone-number?envType=problem-list-v2&envId=hash-table"
+  },
+  {
+    "Domain": "Dynamic Programming",
+    "Title": "5. Longest Palindromic Substring",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-palindromic-substring?envType=problem-list-v2&envId=dynamic-programming"
+  },
+  {
+    "Domain": "Dynamic Programming",
+    "Title": "10. Regular Expression Matching",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/regular-expression-matching?envType=problem-list-v2&envId=dynamic-programming"
+  },
+  {
+    "Domain": "Dynamic Programming",
+    "Title": "22. Generate Parentheses",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/generate-parentheses?envType=problem-list-v2&envId=dynamic-programming"
+  },
+  {
+    "Domain": "Dynamic Programming",
+    "Title": "32. Longest Valid Parentheses",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/longest-valid-parentheses?envType=problem-list-v2&envId=dynamic-programming"
+  },
+  {
+    "Domain": "Dynamic Programming",
+    "Title": "42. Trapping Rain Water",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/trapping-rain-water?envType=problem-list-v2&envId=dynamic-programming"
+  },
+  {
+    "Domain": "Math",
+    "Title": "2. Add Two Numbers",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/add-two-numbers?envType=problem-list-v2&envId=math"
+  },
+  {
+    "Domain": "Math",
+    "Title": "7. Reverse Integer",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/reverse-integer?envType=problem-list-v2&envId=math"
+  },
+  {
+    "Domain": "Math",
+    "Title": "9. Palindrome Number",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/palindrome-number?envType=problem-list-v2&envId=math"
+  },
+  {
+    "Domain": "Math",
+    "Title": "12. Integer to Roman",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/integer-to-roman?envType=problem-list-v2&envId=math"
+  },
+  {
+    "Domain": "Math",
+    "Title": "13. Roman to Integer",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/roman-to-integer?envType=problem-list-v2&envId=math"
+  },
+  {
+    "Domain": "Sorting",
+    "Title": "15. 3Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/3sum?envType=problem-list-v2&envId=sorting"
+  },
+  {
+    "Domain": "Sorting",
+    "Title": "16. 3Sum Closest",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/3sum-closest?envType=problem-list-v2&envId=sorting"
+  },
+  {
+    "Domain": "Sorting",
+    "Title": "18. 4Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/4sum?envType=problem-list-v2&envId=sorting"
+  },
+  {
+    "Domain": "Sorting",
+    "Title": "47. Permutations II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/permutations-ii?envType=problem-list-v2&envId=sorting"
+  },
+  {
+    "Domain": "Sorting",
+    "Title": "49. Group Anagrams",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/group-anagrams?envType=problem-list-v2&envId=sorting"
+  },
+  {
+    "Domain": "Greedy",
+    "Title": "11. Container With Most Water",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=greedy"
+  },
+  {
+    "Domain": "Greedy",
+    "Title": "44. Wildcard Matching",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/wildcard-matching?envType=problem-list-v2&envId=greedy"
+  },
+  {
+    "Domain": "Greedy",
+    "Title": "45. Jump Game II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/jump-game-ii?envType=problem-list-v2&envId=greedy"
+  },
+  {
+    "Domain": "Greedy",
+    "Title": "55. Jump Game",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/jump-game?envType=problem-list-v2&envId=greedy"
+  },
+  {
+    "Domain": "Greedy",
+    "Title": "122. Best Time to Buy and Sell Stock II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii?envType=problem-list-v2&envId=greedy"
+  },
+  {
+    "Domain": "Depth-First Search",
+    "Title": "79. Word Search",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/word-search?envType=problem-list-v2&envId=depth-first-search"
+  },
+  {
+    "Domain": "Depth-First Search",
+    "Title": "94. Binary Tree Inorder Traversal",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/binary-tree-inorder-traversal?envType=problem-list-v2&envId=depth-first-search"
+  },
+  {
+    "Domain": "Depth-First Search",
+    "Title": "98. Validate Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/validate-binary-search-tree?envType=problem-list-v2&envId=depth-first-search"
+  },
+  {
+    "Domain": "Depth-First Search",
+    "Title": "99. Recover Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/recover-binary-search-tree?envType=problem-list-v2&envId=depth-first-search"
+  },
+  {
+    "Domain": "Depth-First Search",
+    "Title": "100. Same Tree",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/same-tree?envType=problem-list-v2&envId=depth-first-search"
+  },
+  {
+    "Domain": "Binary Search",
+    "Title": "4. Median of Two Sorted Arrays",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/median-of-two-sorted-arrays?envType=problem-list-v2&envId=binary-search"
+  },
+  {
+    "Domain": "Binary Search",
+    "Title": "33. Search in Rotated Sorted Array",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/search-in-rotated-sorted-array?envType=problem-list-v2&envId=binary-search"
+  },
+  {
+    "Domain": "Binary Search",
+    "Title": "34. Find First and Last Position of Element in Sorted Array",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array?envType=problem-list-v2&envId=binary-search"
+  },
+  {
+    "Domain": "Binary Search",
+    "Title": "35. Search Insert Position",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/search-insert-position?envType=problem-list-v2&envId=binary-search"
+  },
+  {
+    "Domain": "Binary Search",
+    "Title": "69. Sqrt(x)",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/sqrtx?envType=problem-list-v2&envId=binary-search"
+  },
+  {
+    "Domain": "Tree",
+    "Title": "94. Binary Tree Inorder Traversal",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/binary-tree-inorder-traversal?envType=problem-list-v2&envId=tree"
+  },
+  {
+    "Domain": "Tree",
+    "Title": "95. Unique Binary Search Trees II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/unique-binary-search-trees-ii?envType=problem-list-v2&envId=tree"
+  },
+  {
+    "Domain": "Tree",
+    "Title": "96. Unique Binary Search Trees",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/unique-binary-search-trees?envType=problem-list-v2&envId=tree"
+  },
+  {
+    "Domain": "Tree",
+    "Title": "98. Validate Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/validate-binary-search-tree?envType=problem-list-v2&envId=tree"
+  },
+  {
+    "Domain": "Tree",
+    "Title": "99. Recover Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/recover-binary-search-tree?envType=problem-list-v2&envId=tree"
+  },
+  {
+    "Domain": "Matrix",
+    "Title": "36. Valid Sudoku",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/valid-sudoku?envType=problem-list-v2&envId=matrix"
+  },
+  {
+    "Domain": "Matrix",
+    "Title": "37. Sudoku Solver",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/sudoku-solver?envType=problem-list-v2&envId=matrix"
+  },
+  {
+    "Domain": "Matrix",
+    "Title": "48. Rotate Image",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/rotate-image?envType=problem-list-v2&envId=matrix"
+  },
+  {
+    "Domain": "Matrix",
+    "Title": "54. Spiral Matrix",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/spiral-matrix?envType=problem-list-v2&envId=matrix"
+  },
+  {
+    "Domain": "Matrix",
+    "Title": "59. Spiral Matrix II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/spiral-matrix-ii?envType=problem-list-v2&envId=matrix"
+  },
+  {
+    "Domain": "Two Pointers",
+    "Title": "5. Longest Palindromic Substring",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-palindromic-substring?envType=problem-list-v2&envId=two-pointers"
+  },
+  {
+    "Domain": "Two Pointers",
+    "Title": "11. Container With Most Water",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=two-pointers"
+  },
+  {
+    "Domain": "Two Pointers",
+    "Title": "15. 3Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/3sum?envType=problem-list-v2&envId=two-pointers"
+  },
+  {
+    "Domain": "Two Pointers",
+    "Title": "16. 3Sum Closest",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/3sum-closest?envType=problem-list-v2&envId=two-pointers"
+  },
+  {
+    "Domain": "Two Pointers",
+    "Title": "18. 4Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/4sum?envType=problem-list-v2&envId=two-pointers"
+  },
+  {
+    "Domain": "Stack",
+    "Title": "20. Valid Parentheses",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/valid-parentheses?envType=problem-list-v2&envId=stack"
+  },
+  {
+    "Domain": "Stack",
+    "Title": "32. Longest Valid Parentheses",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/longest-valid-parentheses?envType=problem-list-v2&envId=stack"
+  },
+  {
+    "Domain": "Stack",
+    "Title": "42. Trapping Rain Water",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/trapping-rain-water?envType=problem-list-v2&envId=stack"
+  },
+  {
+    "Domain": "Stack",
+    "Title": "71. Simplify Path",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/simplify-path?envType=problem-list-v2&envId=stack"
+  },
+  {
+    "Domain": "Stack",
+    "Title": "84. Largest Rectangle in Histogram",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/largest-rectangle-in-histogram?envType=problem-list-v2&envId=stack"
+  },
+  {
+    "Domain": "Graph",
+    "Title": "133. Clone Graph",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/clone-graph?envType=problem-list-v2&envId=graph"
+  },
+  {
+    "Domain": "Graph",
+    "Title": "207. Course Schedule",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/course-schedule?envType=problem-list-v2&envId=graph"
+  },
+  {
+    "Domain": "Graph",
+    "Title": "210. Course Schedule II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/course-schedule-ii?envType=problem-list-v2&envId=graph"
+  },
+  {
+    "Domain": "Graph",
+    "Title": "261. Graph Valid Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/graph-valid-tree?envType=problem-list-v2&envId=graph"
+  },
+  {
+    "Domain": "Graph",
+    "Title": "269. Alien Dictionary",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/alien-dictionary?envType=problem-list-v2&envId=graph"
+  },
+  {
+    "Domain": "Heap (Priority Queue)",
+    "Title": "23. Merge k Sorted Lists",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/merge-k-sorted-lists?envType=problem-list-v2&envId=heap-priority-queue"
+  },
+  {
+    "Domain": "Heap (Priority Queue)",
+    "Title": "215. Kth Largest Element in an Array",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/kth-largest-element-in-an-array?envType=problem-list-v2&envId=heap-priority-queue"
+  },
+  {
+    "Domain": "Heap (Priority Queue)",
+    "Title": "218. The Skyline Problem",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/the-skyline-problem?envType=problem-list-v2&envId=heap-priority-queue"
+  },
+  {
+    "Domain": "Heap (Priority Queue)",
+    "Title": "239. Sliding Window Maximum",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/sliding-window-maximum?envType=problem-list-v2&envId=heap-priority-queue"
+  },
+  {
+    "Domain": "Heap (Priority Queue)",
+    "Title": "253. Meeting Rooms II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/meeting-rooms-ii?envType=problem-list-v2&envId=heap-priority-queue"
+  },
+  {
+    "Domain": "Breadth-First Search",
+    "Title": "100. Same Tree",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/same-tree?envType=problem-list-v2&envId=breadth-first-search"
+  },
+  {
+    "Domain": "Breadth-First Search",
+    "Title": "101. Symmetric Tree",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/symmetric-tree?envType=problem-list-v2&envId=breadth-first-search"
+  },
+  {
+    "Domain": "Breadth-First Search",
+    "Title": "102. Binary Tree Level Order Traversal",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/binary-tree-level-order-traversal?envType=problem-list-v2&envId=breadth-first-search"
+  },
+  {
+    "Domain": "Breadth-First Search",
+    "Title": "103. Binary Tree Zigzag Level Order Traversal",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal?envType=problem-list-v2&envId=breadth-first-search"
+  },
+  {
+    "Domain": "Breadth-First Search",
+    "Title": "104. Maximum Depth of Binary Tree",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/maximum-depth-of-binary-tree?envType=problem-list-v2&envId=breadth-first-search"
+  },
+  {
+    "Domain": "Union Find",
+    "Title": "128. Longest Consecutive Sequence",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-consecutive-sequence?envType=problem-list-v2&envId=union-find"
+  },
+  {
+    "Domain": "Union Find",
+    "Title": "130. Surrounded Regions",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/surrounded-regions?envType=problem-list-v2&envId=union-find"
+  },
+  {
+    "Domain": "Union Find",
+    "Title": "200. Number of Islands",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/number-of-islands?envType=problem-list-v2&envId=union-find"
+  },
+  {
+    "Domain": "Union Find",
+    "Title": "261. Graph Valid Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/graph-valid-tree?envType=problem-list-v2&envId=union-find"
+  },
+  {
+    "Domain": "Union Find",
+    "Title": "305. Number of Islands II",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/number-of-islands-ii?envType=problem-list-v2&envId=union-find"
+  },
+  {
+    "Domain": "Binary Tree",
+    "Title": "94. Binary Tree Inorder Traversal",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/binary-tree-inorder-traversal?envType=problem-list-v2&envId=binary-tree"
+  },
+  {
+    "Domain": "Binary Tree",
+    "Title": "95. Unique Binary Search Trees II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/unique-binary-search-trees-ii?envType=problem-list-v2&envId=binary-tree"
+  },
+  {
+    "Domain": "Binary Tree",
+    "Title": "96. Unique Binary Search Trees",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/unique-binary-search-trees?envType=problem-list-v2&envId=binary-tree"
+  },
+  {
+    "Domain": "Binary Tree",
+    "Title": "98. Validate Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/validate-binary-search-tree?envType=problem-list-v2&envId=binary-tree"
+  },
+  {
+    "Domain": "Binary Tree",
+    "Title": "99. Recover Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/recover-binary-search-tree?envType=problem-list-v2&envId=binary-tree"
+  },
+  {
+    "Domain": "Binary Search Tree",
+    "Title": "95. Unique Binary Search Trees II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/unique-binary-search-trees-ii?envType=problem-list-v2&envId=binary-search-tree"
+  },
+  {
+    "Domain": "Binary Search Tree",
+    "Title": "96. Unique Binary Search Trees",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/unique-binary-search-trees?envType=problem-list-v2&envId=binary-search-tree"
+  },
+  {
+    "Domain": "Binary Search Tree",
+    "Title": "98. Validate Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/validate-binary-search-tree?envType=problem-list-v2&envId=binary-search-tree"
+  },
+  {
+    "Domain": "Binary Search Tree",
+    "Title": "99. Recover Binary Search Tree",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/recover-binary-search-tree?envType=problem-list-v2&envId=binary-search-tree"
+  },
+  {
+    "Domain": "Binary Search Tree",
+    "Title": "108. Convert Sorted Array to Binary Search Tree",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree?envType=problem-list-v2&envId=binary-search-tree"
+  },
+  {
+    "Domain": "Recursion",
+    "Title": "2. Add Two Numbers",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/add-two-numbers?envType=problem-list-v2&envId=recursion"
+  },
+  {
+    "Domain": "Recursion",
+    "Title": "10. Regular Expression Matching",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/regular-expression-matching?envType=problem-list-v2&envId=recursion"
+  },
+  {
+    "Domain": "Recursion",
+    "Title": "21. Merge Two Sorted Lists",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/merge-two-sorted-lists?envType=problem-list-v2&envId=recursion"
+  },
+  {
+    "Domain": "Recursion",
+    "Title": "24. Swap Nodes in Pairs",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/swap-nodes-in-pairs?envType=problem-list-v2&envId=recursion"
+  },
+  {
+    "Domain": "Recursion",
+    "Title": "25. Reverse Nodes in k-Group",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/reverse-nodes-in-k-group?envType=problem-list-v2&envId=recursion"
+  },
+  {
+    "Domain": "Queue",
+    "Title": "225. Implement Stack using Queues",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/implement-stack-using-queues?envType=problem-list-v2&envId=queue"
+  },
+  {
+    "Domain": "Queue",
+    "Title": "232. Implement Queue using Stacks",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/implement-queue-using-stacks?envType=problem-list-v2&envId=queue"
+  },
+  {
+    "Domain": "Queue",
+    "Title": "239. Sliding Window Maximum",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/sliding-window-maximum?envType=problem-list-v2&envId=queue"
+  },
+  {
+    "Domain": "Queue",
+    "Title": "281. Zigzag Iterator",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/zigzag-iterator?envType=problem-list-v2&envId=queue"
+  },
+  {
+    "Domain": "Queue",
+    "Title": "341. Flatten Nested List Iterator",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/flatten-nested-list-iterator?envType=problem-list-v2&envId=queue"
+  },
+  {
+    "Domain": "Linked List",
+    "Title": "2. Add Two Numbers",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/add-two-numbers?envType=problem-list-v2&envId=linked-list"
+  },
+  {
+    "Domain": "Linked List",
+    "Title": "19. Remove Nth Node From End of List",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/remove-nth-node-from-end-of-list?envType=problem-list-v2&envId=linked-list"
+  },
+  {
+    "Domain": "Linked List",
+    "Title": "21. Merge Two Sorted Lists",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/merge-two-sorted-lists?envType=problem-list-v2&envId=linked-list"
+  },
+  {
+    "Domain": "Linked List",
+    "Title": "23. Merge k Sorted Lists",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/merge-k-sorted-lists?envType=problem-list-v2&envId=linked-list"
+  },
+  {
+    "Domain": "Linked List",
+    "Title": "24. Swap Nodes in Pairs",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/swap-nodes-in-pairs?envType=problem-list-v2&envId=linked-list"
+  },
+  {
+    "Domain": "Backtracking",
+    "Title": "17. Letter Combinations of a Phone Number",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/letter-combinations-of-a-phone-number?envType=problem-list-v2&envId=backtracking"
+  },
+  {
+    "Domain": "Backtracking",
+    "Title": "22. Generate Parentheses",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/generate-parentheses?envType=problem-list-v2&envId=backtracking"
+  },
+  {
+    "Domain": "Backtracking",
+    "Title": "37. Sudoku Solver",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/sudoku-solver?envType=problem-list-v2&envId=backtracking"
+  },
+  {
+    "Domain": "Backtracking",
+    "Title": "39. Combination Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/combination-sum?envType=problem-list-v2&envId=backtracking"
+  },
+  {
+    "Domain": "Backtracking",
+    "Title": "40. Combination Sum II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/combination-sum-ii?envType=problem-list-v2&envId=backtracking"
+  },
+  {
+    "Domain": "Bit Manipulation",
+    "Title": "29. Divide Two Integers",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/divide-two-integers?envType=problem-list-v2&envId=bit-manipulation"
+  },
+  {
+    "Domain": "Bit Manipulation",
+    "Title": "67. Add Binary",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/add-binary?envType=problem-list-v2&envId=bit-manipulation"
+  },
+  {
+    "Domain": "Bit Manipulation",
+    "Title": "78. Subsets",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/subsets?envType=problem-list-v2&envId=bit-manipulation"
+  },
+  {
+    "Domain": "Bit Manipulation",
+    "Title": "89. Gray Code",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/gray-code?envType=problem-list-v2&envId=bit-manipulation"
+  },
+  {
+    "Domain": "Bit Manipulation",
+    "Title": "90. Subsets II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/subsets-ii?envType=problem-list-v2&envId=bit-manipulation"
+  },
+  {
+    "Domain": "Prefix Sum",
+    "Title": "209. Minimum Size Subarray Sum",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/minimum-size-subarray-sum?envType=problem-list-v2&envId=prefix-sum"
+  },
+  {
+    "Domain": "Prefix Sum",
+    "Title": "238. Product of Array Except Self",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/product-of-array-except-self?envType=problem-list-v2&envId=prefix-sum"
+  },
+  {
+    "Domain": "Prefix Sum",
+    "Title": "253. Meeting Rooms II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/meeting-rooms-ii?envType=problem-list-v2&envId=prefix-sum"
+  },
+  {
+    "Domain": "Prefix Sum",
+    "Title": "303. Range Sum Query - Immutable",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/range-sum-query-immutable?envType=problem-list-v2&envId=prefix-sum"
+  },
+  {
+    "Domain": "Prefix Sum",
+    "Title": "304. Range Sum Query 2D - Immutable",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/range-sum-query-2d-immutable?envType=problem-list-v2&envId=prefix-sum"
+  },
+  {
+    "Domain": "Simulation",
+    "Title": "43. Multiply Strings",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/multiply-strings?envType=problem-list-v2&envId=simulation"
+  },
+  {
+    "Domain": "Simulation",
+    "Title": "54. Spiral Matrix",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/spiral-matrix?envType=problem-list-v2&envId=simulation"
+  },
+  {
+    "Domain": "Simulation",
+    "Title": "59. Spiral Matrix II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/spiral-matrix-ii?envType=problem-list-v2&envId=simulation"
+  },
+  {
+    "Domain": "Simulation",
+    "Title": "67. Add Binary",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/add-binary?envType=problem-list-v2&envId=simulation"
+  },
+  {
+    "Domain": "Simulation",
+    "Title": "68. Text Justification",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/text-justification?envType=problem-list-v2&envId=simulation"
+  },
+  {
+    "Domain": "Design",
+    "Title": "146. LRU Cache",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/lru-cache?envType=problem-list-v2&envId=design"
+  },
+  {
+    "Domain": "Design",
+    "Title": "155. Min Stack",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/min-stack?envType=problem-list-v2&envId=design"
+  },
+  {
+    "Domain": "Design",
+    "Title": "170. Two Sum III - Data structure design",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/two-sum-iii-data-structure-design?envType=problem-list-v2&envId=design"
+  },
+  {
+    "Domain": "Design",
+    "Title": "173. Binary Search Tree Iterator",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/binary-search-tree-iterator?envType=problem-list-v2&envId=design"
+  },
+  {
+    "Domain": "Design",
+    "Title": "208. Implement Trie (Prefix Tree)",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/implement-trie-prefix-tree?envType=problem-list-v2&envId=design"
+  },
+  {
+    "Domain": "Sliding Window",
+    "Title": "3. Longest Substring Without Repeating Characters",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-substring-without-repeating-characters?envType=problem-list-v2&envId=sliding-window"
+  },
+  {
+    "Domain": "Sliding Window",
+    "Title": "30. Substring with Concatenation of All Words",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/substring-with-concatenation-of-all-words?envType=problem-list-v2&envId=sliding-window"
+  },
+  {
+    "Domain": "Sliding Window",
+    "Title": "76. Minimum Window Substring",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/minimum-window-substring?envType=problem-list-v2&envId=sliding-window"
+  },
+  {
+    "Domain": "Sliding Window",
+    "Title": "159. Longest Substring with At Most Two Distinct Characters",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters?envType=problem-list-v2&envId=sliding-window"
+  },
+  {
+    "Domain": "Sliding Window",
+    "Title": "187. Repeated DNA Sequences",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/repeated-dna-sequences?envType=problem-list-v2&envId=sliding-window"
+  },
+  {
+    "Domain": "Counting",
+    "Title": "169. Majority Element",
+    "Tag": "Easy",
+    "URL": "https://leetcode.com/problems/majority-element?envType=problem-list-v2&envId=counting"
+  },
+  {
+    "Domain": "Counting",
+    "Title": "229. Majority Element II",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/majority-element-ii?envType=problem-list-v2&envId=counting"
+  },
+  {
+    "Domain": "Counting",
+    "Title": "299. Bulls and Cows",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/bulls-and-cows?envType=problem-list-v2&envId=counting"
+  },
+  {
+    "Domain": "Counting",
+    "Title": "347. Top K Frequent Elements",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/top-k-frequent-elements?envType=problem-list-v2&envId=counting"
+  },
+  {
+    "Domain": "Counting",
+    "Title": "358. Rearrange String k Distance Apart",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/rearrange-string-k-distance-apart?envType=problem-list-v2&envId=counting"
+  },
+  {
+    "Domain": "Segment Tree",
+    "Title": "218. The Skyline Problem",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/the-skyline-problem?envType=problem-list-v2&envId=segment-tree"
+  },
+  {
+    "Domain": "Segment Tree",
+    "Title": "307. Range Sum Query - Mutable",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/range-sum-query-mutable?envType=problem-list-v2&envId=segment-tree"
+  },
+  {
+    "Domain": "Segment Tree",
+    "Title": "308. Range Sum Query 2D - Mutable",
+    "Tag": "Unknown",
+    "URL": "https://leetcode.com/problems/range-sum-query-2d-mutable?envType=problem-list-v2&envId=segment-tree"
+  },
+  {
+    "Domain": "Segment Tree",
+    "Title": "315. Count of Smaller Numbers After Self",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/count-of-smaller-numbers-after-self?envType=problem-list-v2&envId=segment-tree"
+  },
+  {
+    "Domain": "Segment Tree",
+    "Title": "327. Count of Range Sum",
+    "Tag": "Hard",
+    "URL": "https://leetcode.com/problems/count-of-range-sum?envType=problem-list-v2&envId=segment-tree"
+  }
+]
