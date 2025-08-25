@@ -29,4 +29,4 @@ Frontend -
      Framer Motion for smooth chat animations.
      Dashboard with search, filters, and AI assistant.
 
-Use the start.bat to start both frontend and backend
+Use the start.bat to start both frontend and backend or npm run dev in terminal
