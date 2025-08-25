@@ -28,3 +28,5 @@ Frontend -
      React + TailwindCSS, fully responsive.
      Framer Motion for smooth chat animations.
      Dashboard with search, filters, and AI assistant.
+
+Use the start.bat to start both frontend and backend
