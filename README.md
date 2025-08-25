@@ -33,11 +33,11 @@ How to run from the start:
 1. Run both Web Scrapping codes for both Hackerrank and Leeetcode on initalized public sites which dont require login to access. Scraping them for Title,Domain,Tag,URL. Limit set for 200 entries for demo steup, both scrapers then initalize it in JSON format within the data folder.
 2. Run preprocess.py to preprocess these to clean HTML tags and normalize problem text
 3. Run the build_index.py to create a single processed file integrating both Hackerrank and Leetcode problems and build TF-IDF vectorizer. Creates a index map for better searching.
-4. To run backend use uvicorn.exe app.main:app. Starts backend which contains the Main.py code consisting of -
+4. To run backend use uvicorn.exe app.main:app. Starts backend which contains the Main.py code consisting of 
 ->Links to Authnetication of user when user signs up or login. Uses encrpytion using bycrypt to create a address using secret key and password for secure logins.
 ->Attaching the gemini API key which includes two trained consoles - Learning path and Explain code
 ->A database in db.py which includes SQLlite to store users and progress data.
-5. For Frontend run npm run dev which starts -
+5. For Frontend run npm run dev which starts 
 -> The landing page consisting of signup and login button and restricts access to use search until login. 
 -> Clicking on button will redirect to Signup/login page where user can login or create account.
 -> After Logging in Dashboard provides a Search Bar where user can search keywords and in turn find problem statment with link. Also has filters to select Diffculty in the problems.
