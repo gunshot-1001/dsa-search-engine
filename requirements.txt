@@ -1,0 +1,24 @@
+# Core numerical and ML
+numpy==1.26.5
+scipy==1.11.1
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# Text preprocessing
+nltk==3.9.1
+regex==2025.8.15
+unidecode==1.3.6
+
+# Web scraping / JSON / HTTP requests
+requests==2.32.1
+beautifulsoup4==4.12.2
+
+# Sparse matrix support
+scipy==1.11.1
+
+# Optional: progress bars for preprocessing
+tqdm==4.66.1
+
+# Jupyter & dev tools
+ipython==8.16.2
+jupyter==1.0.0
