@@ -1,4 +1,4 @@
-DSA Search & AI Assistant for BNP Paribas
+DSA Search & AI Assistant
 
 🚀 Master DSA faster! Curated problems from LeetCode & HackerRank, ranked by relevance using NLP and TF-IDF.
 🤖 Gemini AI Assistant explains algorithms, suggests practice problems, and helps debug your solutions.
